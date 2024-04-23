@@ -113,8 +113,8 @@ module.exports = {
   BRANCH: process.env.BRANCH   || 'Main',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
   HEROKU_API_KEY: process.env.HEROKU_API_KEY,
-  caption :process.env.CAPTION || "*• ѕιgмα-м∂ мυℓтι-∂єνι¢є*\n*• ωнαтѕαρρ вσт* ",
-  LANG: process.env.THEME || "SIGMA_MD",
+  caption :process.env.CAPTION || "FAROOQ AHMAD S",
+  LANG: process.env.THEME || "03006586907",
   VERSION: process.env.VERSION || '𝚅.𝟷.𝟻.𝟹'
   //=================================================================================
 };
